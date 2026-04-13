@@ -1,0 +1,15 @@
+logo:
+  src: /linen-theme/img/logo-new.png
+  width: 220
+  height: 48
+
+
+info:
+  site_desc: CL的主页
+  avatar: /linen-theme/img/avatar.jpg
+  siteCardBg: https://xxx.xxx/xx.jpg
+  registration: 火星ICP备22222222
+
+navItems:
+  - name: 归档
+    path: /archives/
